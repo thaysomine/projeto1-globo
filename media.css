@@ -1,0 +1,110 @@
+/*@media screen and (max-width: 500px) {
+  .galeria,
+  .esq-meio,
+  .esq-baixo {
+    display: block;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .logo2 {
+    display: flex;
+    align-items: center;
+    margin-left: 84px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+  }
+
+  .barra-topo {
+    max-width: 320px;
+    margin: 0 41px;
+  }
+
+  .oglobo,
+  .valor,
+  .cartola,
+  .globoplay,
+  .receitas {
+    display: none;
+  }
+  .linhaCima {
+    width: 400px;
+    height: 1px;
+    background-color: #f5f6f7;
+    margin-bottom: 18px;
+  }
+  .linhaBaixo {
+    width: 400px;
+    height: 1px;
+    background-color: #f5f6f7;
+    margin-top: 20px;
+  }
+
+  .coluna-esq {
+    margin-left: 10px;
+  }
+  h1 {
+    width: 345px;
+    height: 125px;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.028em;
+    margin-top: 16px;
+    margin-bottom: 50px;
+  }
+  h2 {
+    width: 345px;
+    height: 58px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.068em;
+    color: #cd150b;
+    margin-bottom: -5px;
+  }
+
+  .galeria {
+    width: 345px;
+  }
+  .galeria img {
+    width: 120px;
+    height: 67px;
+    border-radius: 2.81871px;
+  }
+
+  .esq-topo,
+  .esq-meio-um,
+  .esq-meio-dois,
+  .esq-baixo-um,
+  .esq-baixo-dois,
+  .esq-baixo-tres,
+  .meio-topo,
+  .meio-meio,
+  .meio-baixo,
+  .dir-topo,
+  .dir-meio,
+  .dir-baixo {
+    border-bottom: 1px solid #ebedef;
+    width: 400px;
+    margin-bottom: 20px;
+  }
+
+  .coluna-esq {
+    color: #cd150b;
+  }
+  .coluna-meio {
+    color: #06aa48;
+  }
+  .coluna-dir {
+    color: #ff8203;
+  }
+
+  .coluna-meio,
+  .coluna-dir {
+    border-left: 0px solid #ebedef;
+    height: 845px;
+    margin-left: -25px;
+  }
+}*/

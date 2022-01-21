@@ -1,0 +1,272 @@
+body {
+  font-family: "Encode Sans", sans-serif;
+  width: 1600px;
+  margin: 0 auto;
+}
+.linhaCima {
+  height: 1px;
+  background-color: #f5f6f7;
+  margin-bottom: 8px;
+}
+.linhaBaixo {
+  height: 1px;
+  background-color: #f5f6f7;
+  margin-top: 11px;
+}
+.logo img {
+  width: 171px;
+  display: flex;
+  justify-content: center;
+  margin: 22px auto;
+}
+
+.logo2 {
+  display: none;
+}
+
+.barra-topo {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+  margin-left: 150px;
+  margin-right: 195px;
+}
+
+.g1 a {
+  color: #c3170c;
+}
+.oglobo a {
+  color: #1e4b9b;
+}
+.valor a {
+  color: #006766;
+}
+.ge a {
+  color: #07aa47;
+}
+.cartola a {
+  color: #e3662b;
+}
+.globoplay a {
+  color: #fb0735;
+}
+.dropz a {
+  color: #ff75bb;
+}
+.gshow a {
+  color: #ec7d00;
+}
+.quem a {
+  color: #323333;
+}
+.receitas a {
+  color: #a81d83;
+}
+
+.galeria {
+  display: flex;
+  width: 1250px;
+}
+
+.coluna-esq {
+  margin-left: 151px;
+}
+.coluna-meio {
+  border-left: 1px solid #ebedef;
+  height: 845px;
+  margin-top: 36px;
+  margin-left: 42px;
+}
+.coluna-dir {
+  border-left: 1px solid #ebedef;
+  height: 845px;
+  margin-top: 36px;
+  margin-left: 42px;
+}
+
+.meio-topo,
+.meio-meio,
+.meio-baixo,
+.dir-topo,
+.dir-meio,
+.dir-baixo {
+  margin-left: 35px;
+}
+
+.esq-topo,
+.esq-meio {
+  border-bottom: 1px solid #ebedef;
+  width: 624px;
+  margin-bottom: 25px;
+}
+
+a {
+  color: inherit;
+}
+h1 {
+  width: 624px;
+  height: 201px;
+  font-size: 52px;
+  font-weight: bold;
+  color: #c4160c;
+  line-height: 67px;
+  letter-spacing: -0.01em;
+  margin-top: 34px;
+  margin-bottom: 29px;
+}
+h2 {
+  width: 622px;
+  height: 25px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: -0.01em;
+  color: #303134;
+  margin-bottom: 7px;
+}
+.secundaria {
+  margin-bottom: 25px;
+}
+
+.esq-meio,
+.esq-baixo {
+  display: flex;
+  justify-content: space-between;
+  width: 624px;
+}
+
+.esq-meio img {
+  width: 193px;
+  height: 110px;
+  border-radius: 12px;
+  margin-bottom: 11px;
+}
+.coluna-meio img,
+.coluna-dir img {
+  width: 240px;
+  height: 128px;
+  border-radius: 12px;
+  margin-bottom: 11px;
+}
+
+.titulo-red {
+  width: 192px;
+  height: 19px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: -0.02em;
+  color: #c4170c;
+  margin-bottom: 6px;
+}
+.titulo-green {
+  width: 240px;
+  height: 19px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: -0.02em;
+  color: #16ae54;
+  margin-bottom: 6px;
+}
+.titulo-yellow {
+  width: 240px;
+  height: 19px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: -0.02em;
+  color: #ec8006;
+  margin-bottom: 6px;
+}
+
+.descricao-um {
+  width: 192px;
+  height: 84px;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  margin-bottom: 4.5;
+}
+.descricao-dois {
+  width: 240px;
+  height: 84px;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  margin-bottom: 4px;
+}
+.descricao-tres {
+  width: 240px;
+  height: 26px;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  margin-bottom: 6px;
+}
+
+.comentario-um {
+  width: 174px;
+  height: 42.5px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  color: #2f3134;
+  margin-bottom: 36px;
+}
+.comentario-dois {
+  width: 217px;
+  height: 43px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  color: #2f3134;
+  margin-bottom: 50px;
+}
+.comentario-tres {
+  width: 217px;
+  height: 21px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  color: #2f3134;
+}
+
+.tamanho-um {
+  margin-bottom: 42px;
+}
+.tamanho-dois {
+  margin-bottom: 23px;
+}
+.tamanho-tres {
+  margin-bottom: -20px;
+}
+.tamanho-quatro {
+  margin-bottom: 9px;
+}
+.tamanho-cinco {
+  margin-bottom: 50px;
+}
+
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  filter: brightness(1.5);
+  transition: 0.5s;
+}
+a:hover img {
+  filter: brightness(0.5);
+  transition: 0.1s;
+}
+.descricao-um a:hover,
+.descricao-dois a:hover,
+.descricao-tres a:hover {
+  filter: opacity(0.7);
+}
